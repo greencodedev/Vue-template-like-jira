@@ -1,0 +1,11 @@
+This project is managing task web tool like Jira based on Vue.js
+This project includes only part of managing tasks.
+you can add new task and move task from one project to another by mouse drag on drop.
+
+// run project
+go to cmd
+go to into the folder at cmd
+run following commands
+-- yarn install
+-- npm run start
+run localhost:8080 on chrome
